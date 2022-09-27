@@ -28,4 +28,4 @@ install -m 755 anglerpm %{buildroot}/usr/local/bin
 /usr/local/bin/anglerpm
 
 %changelog
-* Mon Feb 14 2022 openEuler Playground <playground@openeuler.org> - 0.1 - Build the program & Happy Valentine's Day
+* Mon Feb 14 2022 openEuler Playground <playground@openeuler.org> - 0.1 - Build the program & Happy Valentine's Da,I like it,it's my fisrttime to modify the logy
