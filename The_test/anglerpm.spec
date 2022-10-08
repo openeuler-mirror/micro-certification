@@ -1,3 +1,12 @@
+Name: anglerpm
+Version: 0.1
+Release: 1%{?dist}
+Summary: Get your name and show sin and cos value.
+
+Group: Scientific Support
+License: GPLv2
+URL: http:/playground.openeuler.org/
+Source0: anglerpm-0.1.tar.gz
 
 # BuildRequires:
 
