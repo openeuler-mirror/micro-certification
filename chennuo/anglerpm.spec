@@ -50,5 +50,5 @@ install -m 755 anglerpm %{buildroot}/usr/local/bin
 
 %changelog
 
-* Mon Feb 14 2022 openEuler Playground - 0.1 - Build the program & Happy Valentine's Day
+It was updated on 29 December 2022
 
